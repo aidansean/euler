@@ -1,0 +1,22 @@
+pre.euler{
+  width : 80% ;
+  margin : auto ;
+  border : 1px solid black ;
+  font-size : 10pt ;
+  background-color : #000000 ;
+  color : #00ff00 ;
+  padding : 20px ;
+  padding-right : 50px ;
+  font-family : menlo , monospace ;
+}
+table.euler_links{
+  width : 450px ;
+  margin : auto ;
+}
+td.euler_link_left , td.euler_link_center, td.euler_link_right{
+  font : 12pt arial , sans-serif ;
+  width : 33% ;
+}
+td.euler_link_left  { text-align :   left ; }
+td.euler_link_center{ text-align : center ; }
+td.euler_link_right { text-align :  right ; }

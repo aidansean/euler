@@ -1,0 +1,14 @@
+To hone my problem solving skills I occasionally take part in Project Euler, which is a series of mathematical and computational problems.  These pages summarise my solutions and strategies.
+
+<h3>Links</h3>
+
+<a href="http://www.aidansean.com/euler/">Live page</a>
+<a href="https://github.com/aidansean/euler">GitHub repository</a>
+
+<h3>Overview</h3>
+
+This is just a collections of pages that show solutions to the problems.  There's nothing particularly special about these pages.
+
+<h3>Challenges</h3>
+<dl>
+</dl>
