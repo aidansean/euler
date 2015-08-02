@@ -8,7 +8,3 @@ To hone my problem solving skills I occasionally take part in Project Euler, whi
 <h3>Overview</h3>
 
 This is just a collections of pages that show solutions to the problems.  There's nothing particularly special about these pages.
-
-<h3>Challenges</h3>
-<dl>
-</dl>
